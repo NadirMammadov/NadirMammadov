@@ -19,16 +19,16 @@ I am a back-end developer specializing in building scalable, secure, and efficie
 
 ## 📂 Projects
 
-### [E-Codera Mobile App](https://github.com/NadirMammadov/E-Codera-Mobile-App)
+### [E-Codera Mobile App]([https://github.com/NadirMammadov/E-Codera-Mobile-App](https://play.google.com/store/apps/details?id=codeisgroup.sananismayilov.coderaapp))
 A mobile app developed for Codera Academy, using C#, .NET API, SQL, JWT, and Fluent Validations to create a secure, high-performance solution for managing student data and processes.
 
-### [4SİM / C4IR](https://github.com/NadirMammadov/4SIM-C4IR)
+### [4SİM / C4IR](https://github.com/NadirMammadov/)
 Built the back-end infrastructure for the Fourth Industrial Revolution initiative, supporting scalable architecture and efficient data management.
 
-### [Watch Store Website](https://github.com/NadirMammadov/Watch-Store)
+### [Watch Store Website](https://github.com/NadirMammadov/WatchStoreApp)
 Developed a microservice-based website for watch sales, handling both frontend and backend components, ensuring a smooth and dynamic user experience.
 
-### [Restaurant System](https://github.com/NadirMammadov/Restaurant-System)
+### [Restaurant System](https://github.com/NadirMammadov/Restaurant)
 Designed a restaurant and food ordering system using N-Tier architecture, featuring QR code ordering, menu management, and user authentication.
 
 > For more of my projects, check out my [GitHub repositories](https://github.com/NadirMammadov).
