@@ -19,7 +19,7 @@ I am a back-end developer specializing in building scalable, secure, and efficie
 
 ## 📂 Projects
 
-### [E-Codera Mobile App]([https://github.com/NadirMammadov/E-Codera-Mobile-App](https://play.google.com/store/apps/details?id=codeisgroup.sananismayilov.coderaapp))
+### [E-Codera Mobile App](https://play.google.com/store/apps/details?id=codeisgroup.sananismayilov.coderaapp)
 A mobile app developed for Codera Academy, using C#, .NET API, SQL, JWT, and Fluent Validations to create a secure, high-performance solution for managing student data and processes.
 
 ### [4SİM / C4IR](https://github.com/NadirMammadov/)
