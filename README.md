@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nadir Məmmədov
+# 👋 Hi, I'm Nadir Mammadov
 
 **Back-End Developer | C# Specialist | Tech Enthusiast**
 
